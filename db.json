@@ -1,0 +1,30 @@
+{
+  "messages": [
+    {
+      "question": {
+        "ID": "8ecce5a7-b14a-48cd-bd36-bd713bcdfebb",
+        "sender": "user",
+        "content": "Hello"
+      },
+      "answer": {
+        "ID": "8ebe7e63-a82a-4b06-9ada-bb9aca1c18ad",
+        "sender": "bot",
+        "content": "Hi! How can I assist you today?"
+      },
+      "id": 1
+    },
+    {
+      "question": {
+        "ID": "1a5640ad-44bc-4d89-9367-61091dafa01c",
+        "sender": "user",
+        "content": "What is the most popular JS library?"
+      },
+      "answer": {
+        "ID": "99614d59-99d1-4617-8e64-70d47570c142",
+        "sender": "bot",
+        "content": "As of my knowledge cutoff in September 2021, one of the most popular JavaScript libraries is React. React is a widely adopted library for building user interfaces, developed and maintained by Facebook. It has gained popularity due to its component-based architecture, virtual DOM rendering, and the ability to efficiently update and manage UI components. React has a vast ecosystem with a large community, offering numerous additional libraries, tools, and resources for developers. However, please note that popularity among JavaScript libraries can change over time, so it's always a good idea to stay updated with the latest trends and developments in the JavaScript ecosystem."
+      },
+      "id": 2
+    }
+  ]
+}
